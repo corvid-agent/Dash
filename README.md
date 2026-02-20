@@ -2,6 +2,8 @@
 
 A developer-focused macOS menu bar app for quick access to system commands and developer shortcuts.
 
+![Dash Screenshot](screenshot.png)
+
 ## Features
 
 - **Quick Actions** - Open terminal, clear DNS cache, restart Finder, toggle hidden files, empty trash
